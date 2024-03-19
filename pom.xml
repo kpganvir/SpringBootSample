@@ -43,6 +43,7 @@
 	</dependencies>
 
 	<build>
+		  <finalName>SpringBootSample</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -97,5 +98,5 @@
 			</releases>
 		</pluginRepository>
 	</pluginRepositories>
-
+  
 </project>
